@@ -9,9 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dommatrix": "^1.0.3",
-    "pdf.js": "^0.1.0",
-    "pdfjs-dist": "^4.0.379",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   }
